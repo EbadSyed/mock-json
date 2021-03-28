@@ -1,13 +1,12 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
-    "published": "boolean",
-    "createdAt": "date",
-    "comments": "Comment[]"
+  "Tags": {
+    "G": True,
+    "TF": False,
+    "S": False,
+    "F": True,
   },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
+  "Settings": {
+    "MuxSelection": "Primary",
+    "MuxDuration": 7,
   }
 }
