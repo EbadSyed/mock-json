@@ -7,6 +7,6 @@
   },
   "Settings": {
     "MuxSelection": "Primary",
-    "MuxDuration": 7
+    "MuxDuration": "7"
   }
 }
