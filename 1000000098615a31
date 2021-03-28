@@ -1,12 +1,12 @@
 {
   "Tags": {
-    "G": True,
-    "TF": False,
-    "S": False,
-    "F": True,
+    "G": true,
+    "TF": false,
+    "S": false,
+    "F": true
   },
   "Settings": {
     "MuxSelection": "Primary",
-    "MuxDuration": 7,
+    "MuxDuration": 7
   }
 }
