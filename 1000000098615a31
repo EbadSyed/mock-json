@@ -6,7 +6,8 @@
     "F": true
   },
   "Settings": {
-    "MuxSelection": "Primary",
+    "MuxSelectionS": true,
+    "MuxSelectionT": false,
     "MuxDuration": 7
   }
 }
