@@ -8,6 +8,7 @@
   "Settings": {
     "MuxSelectionS": true,
     "MuxSelectionT": false,
+    "MuxFrequency":2,
     "MuxDuration": 7
   }
 }
