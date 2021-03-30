@@ -1,0 +1,15 @@
+
+{
+  "Tags": {
+    "G": false,
+    "TF": false,
+    "S": true,
+    "F": true
+  },
+  "Settings": {
+    "MuxSelectionS": true,
+    "MuxSelectionT": false,
+    "MuxFrequency":2,
+    "MuxDuration": 7
+  }
+}
