@@ -2,7 +2,7 @@
   "Tags": {
     "G": true,
     "TF": false,
-    "S": false,
+    "S": true,
     "F": true
   },
   "Settings": {
